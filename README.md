@@ -27,4 +27,4 @@ This executes the insect_scanner.py file every 15 minutes
 
 ### Connecting the USB-Cables to the Powerbank
 
-Connect the USB cables of the Raspberry and LEDs to the two USB 2.0 ports (black). This is necessary to prevent potential differences that could cause the LEDs to malfunction.
+Connect the USB cables of the Raspberry and LEDs to the two USB 2.0 ports (black) of the Powerbank. This is necessary to prevent potential differences that could cause the LEDs to malfunction.
