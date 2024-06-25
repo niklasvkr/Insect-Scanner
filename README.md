@@ -21,6 +21,6 @@ crontab -e
 Then add this line at the end of the job list:
 
 ```sh
-*/15 * * * * /usr/bin/python3 /home/gruenspecht/workspace/insect_scanner.py
+*/15 * * * * /usr/bin/python3 /path/to/insect_scanner.py
 ```
 This executes the insect_scanner.py file every 15 minutes
