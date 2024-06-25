@@ -5,8 +5,8 @@
 ### Connecting the Gate Cables
 
 Connect the gate cables to the Raspberry Pi pins as follows:
-- Purple cable: GPIO 21
-- Red cable: GPIO 16
+- Purple cable (UV-LEDs): GPIO 21
+- Red cable (White-LEDs): GPIO 16
 
 ![Raspberry Pi Zero W Pinout](Raspberry-pi3-pinout.jpg)
 
